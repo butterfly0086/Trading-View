@@ -75,7 +75,7 @@ function App() {
     <div className='grid lg:grid-cols-3 gap-0 my-8 grid-cols-1'>
       <div className='container mx-auto px-20 mt-5 col-span-2'>
         <div className='col-span-12 flex justify-between gap-10'>
-          <div className=' text-3xl text-slate-300'>Trading View</div>
+          <div className=' text-3xl text-slate-300'>Trading View Application</div>
           <div className='flex justify-start gap-16'>
             <div>
               <select
